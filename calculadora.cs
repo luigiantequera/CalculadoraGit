@@ -3,13 +3,14 @@ using System;
 
 class Program {
     static void Main() {
-        Console.WriteLine("Bienvenido a la Calculadora Básica");
-		Console.Write("Ingrese primer número: ");
+        Console.WriteLine("Bienvenido a la Calculadora BÃ¡sica");
+		Console.Write("Ingrese primer nÃºmero: ");
 		int a = int.Parse(Console.ReadLine());
 
-		Console.Write("Ingrese segundo número: ");
+		Console.Write("Ingrese segundo nÃºmero: ");
 		int b = int.Parse(Console.ReadLine());
 
 		Console.WriteLine($"Resultado: {a + b}");
     }
 }
+// Comentario agregado desde GitHub
