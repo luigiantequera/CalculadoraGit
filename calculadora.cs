@@ -13,6 +13,8 @@ class Program {
 		Console.WriteLine($"Resultado: {a + b}");
 		
 		Console.WriteLine($"Resultado: {a - b}");
+		
+		Console.WriteLine($"Resultado: {a x b}");
     }
 }
 // Comentario agregado desde GitHub
