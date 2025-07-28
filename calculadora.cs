@@ -16,7 +16,7 @@ class Program {
 		
 		Console.WriteLine($"Resultado: {a x b}");
 
-	        Console.WriteLine($"Resultado: {a / b}");
+	    Console.WriteLine($"Resultado: {a / b}");
     }
 }
 // Comentario agregado desde GitHub
