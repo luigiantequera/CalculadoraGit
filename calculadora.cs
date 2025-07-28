@@ -11,6 +11,8 @@ class Program {
 		int b = int.Parse(Console.ReadLine());
 
 		Console.WriteLine($"Resultado: {a + b}");
+		
+		Console.WriteLine($"Resultado: {a - b}");
     }
 }
 // Comentario agregado desde GitHub
